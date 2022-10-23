@@ -5,9 +5,9 @@ Edition" by Wes McKinney, published by O'Reilly Media. Book content
 including updates and errata fixes can be [found for free on my
 website][6].
 
-[Buy the book on Amazon][1]
-
-Follow Wes on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/wesmckinn.svg?style=social&label=Follow)](https://twitter.com/wesmckinn)
+**Before you read book and source codes looking at these quick guides will be better**
+* [Numpy Quick Guide](https://numpy.org/devdocs/user/quickstart.html)
+* [Pandas Quick Guide](https://pandas.pydata.org/docs/user_guide/10min.html)
 
 # 2nd Edition Readers
 
